@@ -71,5 +71,5 @@ else:
 　API KEYが正しくありません。
 - MonthlyRequestLimit  
 　月間リクエスト数がプラン上限を超えています。
-- ScrapingError
+- ScrapingError  
   スクレイピング時に、エラーが発生しました。
